@@ -1,0 +1,29 @@
+_repo: Manners-and-Social-Usages_8399
+creator:
+  author:
+    agent_name: Sherwood, M. E. W. (Mary Elizabeth Wilson)
+    aliases:
+    - Sherwood, Mary Elizabeth Wilson
+    - Sherwood, Mrs. John
+    - Sherwood, E. W. (Elizabeth Wilson)
+    birthdate: 1826
+    deathdate: 1903
+    gutenberg_agent_id: '2722'
+    url: http://www.gutenberg.org/2009/agents/2722
+description: Etiquette manuals are an important sources of information on ballrooms
+  and social dance during the nineteenth-century. Sherwood's book is an exceptional
+  source for etiquette as it was practiced in the late 1880s. Additionally, of the
+  book's fifty-nine chapters, two are devoted to dancing and balls.
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette'
+- !lcc 'BJ'
+title: Manners and Social Usages
+url: http://www.gutenberg.org/ebooks/8399
