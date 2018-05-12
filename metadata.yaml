@@ -1,4 +1,8 @@
 _repo: Manners-and-Social-Usages_8399
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sherwood, M. E. W. (Mary Elizabeth Wilson)
@@ -14,6 +18,8 @@ description: Etiquette manuals are an important sources of information on ballro
   and social dance during the nineteenth-century. Sherwood's book is an exceptional
   source for etiquette as it was practiced in the late 1880s. Additionally, of the
   book's fifty-nine chapters, two are devoted to dancing and balls.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8399#Manners-and-Social-Usages
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
 identifiers:
